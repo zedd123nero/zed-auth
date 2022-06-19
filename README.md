@@ -1,2 +1,2 @@
-# zed-auth
-zed的认证服务
+# zed-oss
+zed的对象存储服务
